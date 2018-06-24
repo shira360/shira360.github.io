@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Text Callout'
-image_align: right
+image_align: left
 menu: 'Easy Content'
 ---
 
