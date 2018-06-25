@@ -6,7 +6,7 @@ hero_image: header.jpg
 ---
 
 # Шиpa 360°
-[Переход](../../news?classes=btn,btn-primary,btn-lg)
+[Переход](http://alexandrlastfm.myjino.ru?classes=btn,btn-primary,btn-lg)
 
 
 
