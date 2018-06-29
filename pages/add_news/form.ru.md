@@ -33,8 +33,7 @@ form:
             type: textarea
             size: long
             classes: editor
-            toolbar: false
-            toolbarTips: false
+            status: false
         -
             name: images
             label: false
