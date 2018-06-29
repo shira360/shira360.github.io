@@ -34,6 +34,7 @@ form:
             size: long
             classes: editor
             toolbar: false
+            toolbarTips: false
         -
             name: images
             label: false
