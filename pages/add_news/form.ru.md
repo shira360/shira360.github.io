@@ -33,7 +33,6 @@ form:
             type: textarea
             size: long
             classes: editor
-            status: false
         -
             name: images
             label: false
